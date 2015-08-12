@@ -1,8 +1,10 @@
+/*
 #########################################################
 ## LintCode Number 9 Fizz Buzz
 ## Problem description see:
 ## http://www.lintcode.com/en/problem/fizz-buzz/
 #########################################################
+*/
 
 class Solution {
 public:
