@@ -1,8 +1,10 @@
+/*
 #########################################################
 ## LintCode Number 82 Single Number
 ## Problem description see:
 ## http://www.lintcode.com/en/problem/single-number/
 #########################################################
+*/
 
 class Solution {
 public:
