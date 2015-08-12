@@ -1,8 +1,8 @@
-#########################################################
-## LintCode Number 365 Count 1 in Binary
-## Problem description see:
-## http://www.lintcode.com/en/problem/count-1-in-binary/
-#########################################################
+/*
+LintCode Number 365 Count 1 in Binary
+Problem description see:
+http://www.lintcode.com/en/problem/count-1-in-binary/
+*/
 
 class Solution {
 public:
